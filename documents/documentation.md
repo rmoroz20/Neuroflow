@@ -49,4 +49,4 @@ If this were not an assessment and was intended for production, I would go an en
 
 Using a SQL database with something like the Flask-Login library would allow a lot more breathing room in maintaining the database of user information and mood data, like hashing passwords for security, or enabling users to login using emails.
 
-Ideally, I would like to add a wider range of moods for the user to choose from, or have a choice between preselected moods and a numbered scale. Allowing the user to submit notes relating to their chosen mood, like a diary entry, could also be an interesting feature. Having the date be outputted to the user in standard readable form would also be a change.
+Ideally, I would like to add a wider range of moods for the user to choose from, or have a choice between preselected moods and a numbered scale. Allowing the user to submit notes relating to their chosen mood, like a diary entry, could also be an interesting feature. Having the date be outputted to the user in standard readable form would also be a change, as there could be an option to filter moods by their date POSTed.
